@@ -3,9 +3,13 @@ Slides and notebooks for JWST Data Processing presentations at VOSS 2025
 
 ## Launch notebooks in Google Colab:
 
-Imaging: <a href="https://colab.research.google.com/github/gbrammer/voss-2025-jwst-data/blob/master/Notebooks/voss2025-jwst-imaging.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg"> </a>
+Imaging
 
-Spectroscopy: <a href="https://colab.research.google.com/github/gbrammer/voss-2025-jwst-data/blob/master/Notebooks/voss2025_jwst_spectroscopy.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg"> </a>
+<a href="https://colab.research.google.com/github/gbrammer/voss-2025-jwst-data/blob/master/Notebooks/voss2025-jwst-imaging.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg"> </a>
+
+Spectroscopy
+
+<a href="https://colab.research.google.com/github/gbrammer/voss-2025-jwst-data/blob/master/Notebooks/voss2025_jwst_spectroscopy.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg"> </a>
 
 ## Additional astronomy-related cloud environments
 
